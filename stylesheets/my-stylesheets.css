@@ -1,0 +1,10 @@
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 100px;
+}
