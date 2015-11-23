@@ -5,7 +5,11 @@ img.center {
     margin: 0 auto;
 }
 
-h1 {
+h1, h2 {
 	text-align: center;
 	margin-bottom: 60px;
+}
+
+p {
+    text-indent: 50px;
 }
